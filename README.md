@@ -1,7 +1,7 @@
 ### norm-distribution
 ##### A package that creates Gaussian (normal) and Binomial objects from file.
 ###### Some methods includes:
-- Read data from a `.txt` file using `read_data_file(file_name)`.
+- Read/retrieve data from a `.txt` file using `read_data_file(file_name)`.
 - Calculating standard deviation using `calculate_stdev(sample=True)`.
 - Calculating the mean using `calculate_mean()`.
 - Adding two Gaussian or Binomial objects.
